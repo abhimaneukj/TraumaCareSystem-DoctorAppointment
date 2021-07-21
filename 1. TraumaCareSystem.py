@@ -1,6 +1,6 @@
 #...____TRAUMA CARE AND DOCTOR APPOINTMENT SYSTEM_____... 
 print("\n""..........TRAUMA CARE AND DOCTOR APPOINTMENT SYSTEM..........""\n"
-      "_____________________________________________________________")
+      "_____________________________________________________________") 
 def DISTRICTS():
         print("\n"".............WELCOME TO TRAUMA CARE SYSTEM............")
         a="yes"
